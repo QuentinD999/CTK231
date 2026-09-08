@@ -1,0 +1,35 @@
+.headingtext{
+    color:red;
+    background-color:black;
+}
+
+.text{
+    color:black;
+    background-color:red;
+}
+
+a:link {
+    color:red;
+}
+
+a:visited {
+    color:lightgreen;
+}
+
+a:active {
+    color:#00FFFF;
+}
+
+a:hover{
+    color:yellow; 
+}
+
+
+.bluebg{
+    color:white;
+    background-color:blue;
+}
+
+.bluetext{
+    color:blue;
+}
