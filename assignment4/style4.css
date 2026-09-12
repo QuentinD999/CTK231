@@ -1,0 +1,44 @@
+body{
+    background-color:#9999;
+    background-image: url("arkham.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+p{
+    font-family:Helvetica, Arial, sans-serif;
+
+}
+
+h1{
+    color: orange;
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+h2{
+    color: orange;
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+.textcenter{ 
+    text-align:center;
+}
+
+.textjustify{
+    text-align:justify;
+}
+
+.imagebox{
+    border: 10px solid black;
+    padding: 10px;
+    background-color: yellow; 
+}
+
+
+
+
