@@ -115,6 +115,8 @@ main{
 
 .gallery{
     margin-left: 10px;
+    margin: 0 10px;
+    min-width: 0;
 }
 
 
